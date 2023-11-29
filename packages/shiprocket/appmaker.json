@@ -1,0 +1,10 @@
+{
+    "type": "extension",
+    "id": "cln09adqw00qmvs0jw2pzxoj4",
+    "handle": "shiprocket",
+    "name": "Shiprocket",
+    "package": {
+        "id": "cln09ae0700qovs0jfaj9tygq",
+        "name": "@appmaker-packages/extension-shiprocket"
+    }
+}

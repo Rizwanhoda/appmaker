@@ -1,0 +1,6 @@
+{
+    "packages": {
+        "@appmaker-packages/extension-shiprocket": "packages/shiprocket"
+    },
+    "defaultPackage": "@appmaker-packages/extension-shiprocket"
+}
